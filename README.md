@@ -137,55 +137,6 @@ Adicione o processo para instalar o projeto abaixo e se quiser crie mais espaço
 ```
 
 <br />
-### :pushpin: Requisitos adicionais <a name="id01.2.4"></a>
-
-<br />
-
-# :camera_flash: Screenshots <a name="id02"></a>
-
-<br />
-
-## :iphone: Mobile design
-
-![Mobile Design](./presentation/mobile.png)
-
-## :iphone: Tablets design
-
-![Tablets Design](./presentation/tablet.png)
-
-## :desktop_computer: Desktop design
-
-![Tablets Design](./presentation/tablet.png)
-
-## :desktop_computer: Resultado final
-
-![Tablets Design](./presentation/myWork.gif)
-
-# :heavy_check_mark: O que aprendi <a name="id03"></a>
-
-# ☑️ Pré-requisitos para rodar <a name="id05"></a>
-
-<br />
-
-- [x] adicione os requisitos aqui
-
-<br />
-
-# 📝 Procedimentos de instalação <a name="id06"></a>
-
-<br />
-
-Adicione o processo para instalar o projeto abaixo e se quiser crie mais espaços de código:
-
-```bash
-#processos aqui
-```
-
-```bash
-#processos adicionais aqui
-```
-
-<br />
 
 # 👨🏾‍💻 Desafios similares e dicas <a name="id07"></a>
 
